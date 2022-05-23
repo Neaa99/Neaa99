@@ -4,21 +4,21 @@ My name is Linnea Frisk and I'm a frontend developer with a goal to become a ful
 
 ✨ My tech stack includes ✨
 
-HTML/CSS
+- HTML/CSS
 
-JavaScript ES6
+- JavaScript ES6
 
-React
+- React
 
-Redux toolkit
+- Redux toolkit
 
-Node.js (Express/Mongoose)
+- Node.js (Express/Mongoose)
 
-MongoDB
+- MongoDB
 
-React Native
+- React Native
 
-Styled Components
+- Styled Components
 
 
 ⚡ Currently ⚡
