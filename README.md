@@ -18,9 +18,13 @@ Styled Components
 I live in Stockholm, together with my boyfriend and my three cats, Bob, Noah and Leo. When not programming I prefer to hang out with my family or reading a good book.
 
 Playing: All kinds of board games!
+
 Reading: 'And the Mountains Echoed' by Khaled Hosseini and 'Fire and Blood' by George RR Martin
+
 Watching: Everything from Marvel to sitcoms like Friends
+
 Listening to: A like lot of different genres but Labrinth and Mike Oldfield are two personal favorites
+
 <!--
 **Neaa99/Neaa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
