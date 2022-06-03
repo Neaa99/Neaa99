@@ -29,7 +29,7 @@ Playing: All kinds of board games!
 
 Reading: 'And the Mountains Echoed' by Khaled Hosseini and 'Fire and Blood' by George RR Martin
 
-Watching: Everything from Marvel to sitcoms like Friends. Currently: Obi-Wan Kenobi (See ehat I did in my title?😄)
+Watching: Everything from Marvel to sitcoms like Friends. Currently: Obi-Wan Kenobi (See what I did in my title?😄)
 
 Listening to: A like lot of different genres but Labrinth and Mike Oldfield are two personal favorites
 
