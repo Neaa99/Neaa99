@@ -1,4 +1,4 @@
-### Hi there 👋
+### Well Hello there 👋
 
 My name is Linnea Frisk and I'm a frontend developer with a goal to become a fullstack developer and a digital designer. I also have a three years education in Media and communication which makes me a great asset to your tech team. With my frontend education from Technigo I have 21 projects that includes both frontend, backend and fullstack projects. The rest of my projects is hobby projects I have worked on my own outside of my studies.
 
@@ -29,7 +29,7 @@ Playing: All kinds of board games!
 
 Reading: 'And the Mountains Echoed' by Khaled Hosseini and 'Fire and Blood' by George RR Martin
 
-Watching: Everything from Marvel to sitcoms like Friends
+Watching: Everything from Marvel to sitcoms like Friends. Currently: Obi-Wan Kenobi (See ehat I did in my title?😄)
 
 Listening to: A like lot of different genres but Labrinth and Mike Oldfield are two personal favorites
 
